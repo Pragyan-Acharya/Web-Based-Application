@@ -15,9 +15,6 @@ This project is Educational Purposes Only Iam Not Responsible Anything ( Use thi
 * 💡 Interactive Effects
 * 🚀 Fast & Lightweight Performance
 
----
-
-
 
 ---
 # 🛠 Tech-Stack
@@ -38,8 +35,6 @@ This project is Educational Purposes Only Iam Not Responsible Anything ( Use thi
 
 Contributions are welcome!
 
-
-5. Open a Pull Request
 
 ---
 
